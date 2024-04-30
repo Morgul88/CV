@@ -12,7 +12,7 @@ body{
   border-color: #292a38;
 }
 .left{
-  width:30%;
+  
   a{
     display:block;
     text-decoration: none;
@@ -21,9 +21,7 @@ body{
     padding:15px;
   }
 }
-.right{
-  width:70%;
-}
+
 
 .home{
   display:flex;
