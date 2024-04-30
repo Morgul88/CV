@@ -18,8 +18,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <script defer src="https://kit.fontawesome.com/41c8b474e2.js" crossOrigin="anonymous"></script>
-        <script src="https://kit.fontawesome.com/686402c9d7.js" crossOrigin="anonymous"></script>
+        
       </head>
       <body>
         <div className="wrapper">
